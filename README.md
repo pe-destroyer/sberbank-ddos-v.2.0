@@ -7,4 +7,6 @@
 
 Очень прост в использовании! 
 
-![sadasdasdas](https://user-images.githubusercontent.com/98909121/155889152-83e4375f-007d-4b01-b88a-da36b6cd0497.png)
+![photo_2022-02-27_18-49-59](https://user-images.githubusercontent.com/98909121/155891633-afa4d9dd-9f09-43c8-b4a4-81b6f1f36754.jpg)
+
+- Добавил Скомпилированую Версию ( Компилировал с помощью Nuitk'и ) 
