@@ -1,0 +1,3 @@
+pip install threading 
+pip install requests 
+pip install wget 
