@@ -10,3 +10,7 @@
 ![photo_2022-02-27_18-49-59](https://user-images.githubusercontent.com/98909121/155891633-afa4d9dd-9f09-43c8-b4a4-81b6f1f36754.jpg)
 
 - Добавил Скомпилированую Версию ( Компилировал с помощью Nuitk'и ) 
+
+Update 0.1 : 
+- Скачиванние Библиотек Через Requests 
+- Удален Subprocess
