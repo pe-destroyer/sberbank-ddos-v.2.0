@@ -1,8 +1,7 @@
 import sys
 import time 
-import requests 
+import requests
 import threading
-import wget
 import os 
 prt =  """
 
